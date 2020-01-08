@@ -1,0 +1,31 @@
+{
+  "name": "weatherapp",
+  "version": "1.0.0",
+  "description": "Weather lookup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoelHJames1/WeatherApp.git"
+  },
+  "keywords": [
+    "WeatherApp",
+    "NodeJS",
+    "Joel",
+    "Hernandez",
+    "James"
+  ],
+  "author": "Joel Hernandez James",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JoelHJames1/WeatherApp/issues"
+  },
+  "homepage": "https://github.com/JoelHJames1/WeatherApp#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1"
+  }
+}
